@@ -1,0 +1,13 @@
+baseURL = 'https://datasarva.com'
+languageCode = 'en-us'
+title = 'DataSarva'
+
+paginate = 4
+
+[params]
+  description = "DataSarva"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
